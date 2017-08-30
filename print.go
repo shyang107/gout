@@ -3,8 +3,8 @@ package util
 import (
 	"fmt"
 
-	"github.com/shyang107/go-twinvoices/pencil/ansi256"
-	"github.com/shyang107/go-twinvoices/pencil/ansi8"
+	"github.com/shyang107/pencil/ansi256"
+	"github.com/shyang107/pencil/ansi8"
 )
 
 // code of string format
